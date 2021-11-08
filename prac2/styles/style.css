@@ -1,0 +1,28 @@
+body {
+	margin: auto;
+	padding: 0px;
+	background-image: url("../images/wall.jpeg");
+	font-family: "メイリオ", "ヒラギノ角ゴ Pro W3";
+}
+
+p {
+    margin: 20px auto;
+	width: 1200px;
+	text-align: left;
+	font-size: 14px;
+	color: black;
+	line-height: 1.6em;
+}
+
+img {
+	border: solid 5px WhiteSmoke;
+}
+
+footer {
+    background: cadetblue;
+}
+
+div.blocka {
+    float: left;
+    width: 50%;
+ }
